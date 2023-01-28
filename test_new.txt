@@ -4,3 +4,5 @@ test case new 3,2,1
 
 test case 2
 info about test case 2
+
+test case 3
